@@ -18,3 +18,6 @@ The Android Authentication and Web Browsing App is designed to provide users wit
 3. Proceed to SecondActivity for more options.
 4. Navigate to WebActivity for web browsing.
 
+![o1](https://github.com/kishore7403/Kotlin-webAccess/assets/48860055/0db5a0fc-3d5e-445e-8003-553df0c27893)
+![o2](https://github.com/kishore7403/Kotlin-webAccess/assets/48860055/6f762ac8-3270-4ebe-a79f-e9fc7bd8ea34)
+![o3](https://github.com/kishore7403/Kotlin-webAccess/assets/48860055/1cc8554d-4824-4a92-b65e-fdab10c626ba)
